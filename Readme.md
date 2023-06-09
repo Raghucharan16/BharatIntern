@@ -1,4 +1,4 @@
-## This repo is on behalf of Bharat Intern Machine Learning Tasks.
+## This repo is on behalf of Bharat Intern Virtual Internship Campaign .
 
  ### This Repo contains 3 Machine Learning Projects
  - House price Prediction
