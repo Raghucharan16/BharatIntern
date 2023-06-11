@@ -5,4 +5,4 @@
  - Wine Quality Prediction
  -  Iris Flowers Classification
  
- ## Each project was built on jupyter notebook with clear explanation.
+ ## Each project was written in jupyter notebook with clear explanation and comments.
